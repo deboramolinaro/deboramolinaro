@@ -5,8 +5,7 @@ Olá, eu sou a Débora! 👋
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboramolinaro&show_icons=true&theme=onedark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboramolinaro&show_icons=true&theme=onedark" "https://github.com/deboramolinaro/github-readme-stats">
-  <img height="180em" src="https://www.imagemhost.com.br/images/2022/02/13/gif-sub.gif" alt="gif-sub.gif" border="0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboramolinaro&show_icons=true&theme=onedark" "https://github.com/deboramolinaro/github-readme-stats">  
 </div>
 <br>
 <div>
@@ -15,7 +14,6 @@ Olá, eu sou a Débora! 👋
     <a href="https://www.twitch.tv/deborakiedis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
     <a href="https://www.instagram.com/deboraktw" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     <a href="https://twitter.com/deborakiedis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-    <a href="https://github.com/deboramolinaro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank">
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
